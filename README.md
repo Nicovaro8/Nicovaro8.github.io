@@ -1,3 +1,3 @@
 #  Nicolas Vanegas
 
-![Image|100](Nicovaro.jpg "it's me")
+![Image|10](Nicovaro.jpg "it's me")
