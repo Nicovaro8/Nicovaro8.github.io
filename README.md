@@ -4,7 +4,11 @@
 <!--![Image](Nicovaro.jpg "it's me") -->
 
 <!-- No se puede dimensionar las imagenes en Markdown entonces se hace con HTML -->
-<img align="center" src="Nicovaro.jpg" width="200" height="350">
+<img src="Nicovaro.jpg" width="200" height="340">
+
+\
+[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicovaro8 "Github profile")
+[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-vanegas-ab492626a/ "Linkedin profile")
 
 
 
@@ -21,9 +25,10 @@ A lo largo de mi carrera, he adquirido conocimientos tanto teóricos como práct
 
 ## Contacto
 
-\
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicovaro8 "Github profile")
 
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-vanegas-ab492626a/)
+   Gmail:     nicolax0608@gmail.com   
+   Celular:   3209288821              
+   GitHub:      Nicovaro8              
+    
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://www.instagram.com/nicovaro1113/)
+
