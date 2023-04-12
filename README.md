@@ -34,11 +34,12 @@ A lo largo de mi carrera, he adquirido conocimientos tanto teóricos como práct
 Universidad de los Llanos:** 
 
    Tutor de acompañamiento al profesor en la enseñanza del curso de Ecuaciones Diferenciales en el semestre 2020-2.
+   
 
 - **2021-1, Tutor del curso Calculo Integral
 Universidad de los Llanos:** 
 
-    Tutor de acompañamiento al profesor en la enseñanza del curso de Calculo integral en el semestre 2020-2.
+   Tutor de acompañamiento al profesor en la enseñanza del curso de Calculo integral en el semestre 2021-1.
 
 ### **Software:**
 - Ofimática Microsoft Office
