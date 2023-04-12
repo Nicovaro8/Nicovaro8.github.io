@@ -30,15 +30,16 @@ A lo largo de mi carrera, he adquirido conocimientos tanto teóricos como práct
 ---
 ## Experiencia
 
- - 2020-2, Tutor del curso Ecuaciones diferenciales
-Universidad de los Llanos: 
+ - **2020-2, Tutor del curso Ecuaciones diferenciales
+Universidad de los Llanos:** 
 
-        Tutor encargado de acompañar al profesor en transmitir las enseñanzas asignadas para el curso de ecuaciones diferenciales en el semestre 2020- 2
+    Tutor encargado de acompañar al profesor en transmitir las enseñanzas asignadas para el curso de ecuaciones diferenciales en el semestre 2020- 2
 
-- 2021-1, Tutor del curso Calculo Integral
-Universidad de los Llanos:
+- **2021-1, Tutor del curso Calculo Integral
+Universidad de los Llanos:** 
 
-        Tutor encargado de acompañar al profesor en transmitir las enseñanzas asignadas para el curso calculo integral en el semestre 2020-2
+    Tutor encargado de acompañar al profesor en transmitir las enseñanzas asignadas para el curso calculo integral en el semestre 2020-2
+
 
 ### Software:
 - Ofimática Microsoft Office
@@ -48,7 +49,6 @@ Universidad de los Llanos:
 - LabVIEW
 - Arduino
 - Logo Software 
-
 
 ---
 ## Contacto
