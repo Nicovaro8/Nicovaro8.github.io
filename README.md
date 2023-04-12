@@ -7,4 +7,4 @@
 <img src="Nicovaro.jpg" width="400" height="600">
 
 
-![Gmail](https://github.com/Nicovaro8/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+![Gmail]((https://github.com/Nicovaro8 "Github profile")![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white))
