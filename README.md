@@ -1,13 +1,12 @@
 #  Nicolas Vanegas
 
-<center>
+
 <!--![Image](Nicovaro.jpg "it's me") -->
 
 <!-- No se puede dimensionar las imagenes en Markdown entonces se hace con HTML -->
 <img align="center" src="Nicovaro.jpg" width="200" height="350">
 
 
-</center>
 
 ## Perfil
 
