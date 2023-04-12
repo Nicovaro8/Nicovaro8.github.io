@@ -4,7 +4,7 @@
 <!--![Image](Nicovaro.jpg "it's me") -->
 
 <!-- No se puede dimensionar las imagenes en Markdown entonces se hace con HTML -->
-<img src="Nicovaro.jpg" width="400" height="600">
+<img src="Nicovaro.jpg" width="300" height="500">
 
 
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicovaro8 "Github profile")
