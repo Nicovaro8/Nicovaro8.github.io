@@ -53,7 +53,7 @@ Universidad de los Llanos:**
 
 - MATLAB
 - LabVIEW
-- Logo Software  
+- Logo! Software  
 
 ---
 ## Contacto
