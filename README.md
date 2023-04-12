@@ -1,16 +1,3 @@
-#  Nicolas Vanegas
-
-
-<!--![Image](Nicovaro.jpg "it's me") -->
-
-<!-- No se puede dimensionar las imagenes en Markdown entonces se hace con HTML -->
-<img src="Nicovaro.jpg" width="200" height="340">
-
-\
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicovaro8 "Github profile")
-[![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-vanegas-ab492626a/ "Linkedin profile")
-
-
 ## Perfil
 
 ---
@@ -44,6 +31,7 @@ Universidad de los Llanos:**
 
     Pasante en el grupo de investigación *Rejewski security labs* vinculado al desarrollo de iniciativas en tecnologías de la información y las comunicaciones enfocadas en ciberseguridad
 
+
 ### **Software:**
 - Ofimática Microsoft Office
 - Python
@@ -57,7 +45,8 @@ Universidad de los Llanos:**
 ## Contacto
 
 
-   Gmail:     nicolax0608@gmail.com   
-   Celular:   3209288821              
-   GitHub:      Nicovaro8              
+   Gmail:     [nicolax0608@gmail.com](https://mail.google.com/mail/u/0/#inbox?compose=GTvVlcSHwQhSMNSWGRtZZPRCvDwvpXVLrfSvKlpMCdsVbTFbmcDLslScMJLNCWGHHFhgtRQGZWVrS "mail") 
+   \
+   Celular:      [3209288821](https://api.whatsapp.com/send?phone=573209288821  "Telephone or Whatsapp")           
+   GitHub:      [Nicovaro8](https://github.com/Nicovaro8 "Github profile")             
     
