@@ -10,7 +10,7 @@
 [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Nicovaro8 "Github profile")
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nicolas-vanegas-ab492626a/ "Linkedin profile")
 
-<link rel = "icon" type="image/png" img src="Favicon1.PNG" >
+<link rel ="shortcut icon" type="image/png" href="Favicon1.png">
 
 ## Perfil
 
