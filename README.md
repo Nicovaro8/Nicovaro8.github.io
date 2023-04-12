@@ -1,3 +1,3 @@
 #  Nicolas Vanegas
 
-<link href="favicon.ico" rel="icon" type="image/x-icon" />
+![Image](Nicovaro.jpg "it's me")
