@@ -61,8 +61,8 @@ Universidad de los Llanos:**
 ## Contacto
 
 
-   Gmail: :email:  [nicolax0608@gmail.com](mailto:nicolax0608@gmail "Gmail")
+   Gmail: :email: [nicolax0608@gmail.com](mailto:nicolax0608@gmail "Gmail")
    \
-   Celular :telephone_receiver: :      [ 3209288821](https://api.whatsapp.com/send?phone=573209288821  "Telephone or Whatsapp")           
-   GitHub: :cat:     [Nicovaro8](https://github.com/Nicovaro8 "Github profile")              
+   :telephone_receiver: Celular: [3209288821](https://api.whatsapp.com/send?phone=573209288821  "Telephone or Whatsapp")           
+   :cat: GitHub: [Nicovaro8](https://github.com/Nicovaro8 "Github profile")              
     
