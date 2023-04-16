@@ -53,16 +53,16 @@ Universidad de los Llanos:**
 - 	![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 - ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white)
 
-- MATLAB
-- LabVIEW
+- 🌄 MATLAB
+- 🔻 LabVIEW
 - Logo! Software  
 
 ---
 ## Contacto
 
 
-   :email: Gmail: [nicolax0608@gmail.com](mailto:nicolax0608@gmail "Gmail")
+   📧 Gmail: [nicolax0608@gmail.com](mailto:nicolax0608@gmail "Gmail")
    \
-   :telephone_receiver: Celular: [3209288821](https://api.whatsapp.com/send?phone=573209288821  "Telephone or Whatsapp")           
-   :cat: GitHub: [Nicovaro8](https://github.com/Nicovaro8 "Github profile")              
+   📞 Celular: [3209288821](https://api.whatsapp.com/send?phone=573209288821  "Telephone or Whatsapp")           
+   🐱 GitHub: [Nicovaro8](https://github.com/Nicovaro8 "Github profile")              
     
