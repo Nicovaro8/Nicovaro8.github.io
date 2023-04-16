@@ -63,6 +63,8 @@ Universidad de los Llanos:**
 
 
    - 📧 Gmail: [nicolax0608@gmail.com](mailto:nicolax0608@gmail "Gmail")
-   - 📞 Celular: [3209288821](https://api.whatsapp.com/send?phone=573209288821  "Telephone or Whatsapp")           
+   
+   - 📞 Celular: [3209288821](https://api.whatsapp.com/send?phone=573209288821  "Telephone or Whatsapp")   
+           
    - 🐱 GitHub: [Nicovaro8](https://github.com/Nicovaro8 "Github profile")              
     
