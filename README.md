@@ -63,6 +63,6 @@ Universidad de los Llanos:**
 
    Gmail:     [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nicolax0608@gmail "Gmail")
    \
-   :telephone_receiver: Celular:      [ 3209288821](https://api.whatsapp.com/send?phone=573209288821  "Telephone or Whatsapp")           
+   Celular :telephone_receiver: :      [ 3209288821](https://api.whatsapp.com/send?phone=573209288821  "Telephone or Whatsapp")           
    GitHub:      [Nicovaro8](https://github.com/Nicovaro8 "Github profile")              
     
