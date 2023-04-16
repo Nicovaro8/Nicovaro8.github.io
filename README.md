@@ -46,7 +46,6 @@ Universidad de los Llanos:**
     Pasante en el grupo de investigación *Rejewski security labs* vinculado al desarrollo de iniciativas en tecnologías de la información y las comunicaciones enfocadas en ciberseguridad
 
 
-
  ### **Software:**
  - ![Microsoft Office](https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white)  
  - ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
