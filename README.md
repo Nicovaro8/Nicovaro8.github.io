@@ -51,8 +51,8 @@ Universidad de los Llanos:**
  - 🌄 MATLAB
  - 🔻 LabVIEW
  - ⚡ Logo! Software  
- - 🏭 TIA Portal
- -🔻 Packet Tracer
+ - 🏭 TIA Portal  
+ - 🔻 Packet Tracer
 
 ---
 ## Contacto
